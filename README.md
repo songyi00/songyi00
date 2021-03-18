@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- I'm a computer engineering student at CNU 
+- I’m currently learning front-end and back-end
+
 <!--
 **ksl2950/ksl2950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
