@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👩🏻‍💻 I'm a computer engineering student at ChungnamNationalUniversity 👩🏻‍💻 
+- 👩🏻‍💻 I'm a computer engineering student at CNU 👩🏻‍💻 
 - 🌱 I’m currently learning front-end and back-end on javascript🌱
 - 📫 How to reach me: ssongyii.kim@gmail.com 📫
 
