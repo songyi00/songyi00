@@ -5,11 +5,7 @@
 - 📫 How to reach me: ssongyii.kim@gmail.com 📫
 
  [![songyi00's github stats](https://github-readme-stats.vercel.app/api?username=songyi00)](https://github.com/anuraghazra/github-readme-stats)
- <div>
-   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/songyi00)](https://hits.seeyoufarm.com)                     
 
- </div>
 <!--
 **ksl2950/ksl2950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
