@@ -5,7 +5,6 @@
 - 📫 How to reach me: ssongyii.kim@gmail.com 📫
 
  [![songyi00's github stats](https://github-readme-stats.vercel.app/api?username=songyi00)](https://github.com/anuraghazra/github-readme-stats)
- &nbsp;&nbsp;&nbsp;&nbsp;
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksl2950)](https://solved.ac/ksl2950/)
 
 <!--
